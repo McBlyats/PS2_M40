@@ -1,0 +1,82 @@
+c:\users\joy\documents\visual studio 2015\Projects\Ps\Ps\bin\Debug\Ps.exe.config
+c:\users\joy\documents\visual studio 2015\Projects\Ps\Ps\bin\Debug\Ps.exe
+c:\users\joy\documents\visual studio 2015\Projects\Ps\Ps\bin\Debug\Ps.pdb
+c:\users\joy\documents\visual studio 2015\Projects\Ps\Ps\obj\Debug\Ps.csprojResolveAssemblyReference.cache
+c:\users\joy\documents\visual studio 2015\Projects\Ps\Ps\obj\Debug\MainWindow.g.cs
+c:\users\joy\documents\visual studio 2015\Projects\Ps\Ps\obj\Debug\App.g.cs
+c:\users\joy\documents\visual studio 2015\Projects\Ps\Ps\obj\Debug\Ps_MarkupCompile.cache
+c:\users\joy\documents\visual studio 2015\Projects\Ps\Ps\obj\Debug\Ps_MarkupCompile.lref
+c:\users\joy\documents\visual studio 2015\Projects\Ps\Ps\obj\Debug\MainWindow.baml
+c:\users\joy\documents\visual studio 2015\Projects\Ps\Ps\obj\Debug\Ps.g.resources
+c:\users\joy\documents\visual studio 2015\Projects\Ps\Ps\obj\Debug\Ps.Properties.Resources.resources
+c:\users\joy\documents\visual studio 2015\Projects\Ps\Ps\obj\Debug\Ps.csproj.GenerateResource.Cache
+c:\users\joy\documents\visual studio 2015\Projects\Ps\Ps\obj\Debug\Ps.exe
+c:\users\joy\documents\visual studio 2015\Projects\Ps\Ps\obj\Debug\Ps.pdb
+C:\Users\student\Desktop\Toate_18.05\Ps\Ps\bin\Debug\Ps.exe.config
+C:\Users\student\Desktop\Toate_18.05\Ps\Ps\obj\Debug\Ps.exe
+C:\Users\student\Desktop\Toate_18.05\Ps\Ps\obj\Debug\Ps.pdb
+C:\Users\student\Desktop\Toate_18.05\Ps\Ps\bin\Debug\Ps.exe
+C:\Users\student\Desktop\Toate_18.05\Ps\Ps\bin\Debug\Ps.pdb
+C:\Users\student\Desktop\Toate_18.05\Ps\Ps\obj\Debug\MainWindow.g.cs
+C:\Users\student\Desktop\Toate_18.05\Ps\Ps\obj\Debug\App.g.cs
+C:\Users\student\Desktop\Toate_18.05\Ps\Ps\obj\Debug\Ps_MarkupCompile.cache
+C:\Users\student\Desktop\Toate_18.05\Ps\Ps\obj\Debug\Ps_MarkupCompile.lref
+C:\Users\student\Desktop\Toate_18.05\Ps\Ps\obj\Debug\MainWindow.baml
+C:\Users\student\Desktop\Toate_18.05\Ps\Ps\obj\Debug\Ps.g.resources
+C:\Users\student\Desktop\Toate_18.05\Ps\Ps\obj\Debug\Ps.Properties.Resources.resources
+C:\Users\student\Desktop\Toate_18.05\Ps\Ps\obj\Debug\Ps.csproj.GenerateResource.Cache
+C:\Users\Joy\Desktop\Ps\Ps\bin\Debug\Ps.exe.config
+C:\Users\Joy\Desktop\Ps\Ps\obj\Debug\Ps.exe
+C:\Users\Joy\Desktop\Ps\Ps\obj\Debug\Ps.pdb
+C:\Users\Joy\Desktop\Ps\Ps\obj\Debug\Ps.csprojResolveAssemblyReference.cache
+C:\Users\Joy\Desktop\Ps\Ps\obj\Debug\MainWindow.g.cs
+C:\Users\Joy\Desktop\Ps\Ps\obj\Debug\App.g.cs
+C:\Users\Joy\Desktop\Ps\Ps\obj\Debug\Ps_MarkupCompile.cache
+C:\Users\Joy\Desktop\Ps\Ps\obj\Debug\Ps_MarkupCompile.lref
+C:\Users\Joy\Desktop\Ps\Ps\bin\Debug\Ps.exe
+C:\Users\Joy\Desktop\Ps\Ps\bin\Debug\Ps.pdb
+C:\Users\Joy\Desktop\Ps\Ps\obj\Debug\MainWindow.baml
+C:\Users\Joy\Desktop\Ps\Ps\obj\Debug\Ps.g.resources
+C:\Users\Joy\Desktop\Ps\Ps\obj\Debug\Ps.Properties.Resources.resources
+C:\Users\Joy\Desktop\Ps\Ps\obj\Debug\Ps.csproj.GenerateResource.Cache
+C:\Users\student\Desktop\Ps25.05\Ps\bin\Debug\Ps.exe.config
+C:\Users\student\Desktop\Ps25.05\Ps\bin\Debug\Ps.exe
+C:\Users\student\Desktop\Ps25.05\Ps\bin\Debug\Ps.pdb
+C:\Users\student\Desktop\Ps25.05\Ps\obj\Debug\MainWindow.g.cs
+C:\Users\student\Desktop\Ps25.05\Ps\obj\Debug\App.g.cs
+C:\Users\student\Desktop\Ps25.05\Ps\obj\Debug\Ps_MarkupCompile.cache
+C:\Users\student\Desktop\Ps25.05\Ps\obj\Debug\Ps_MarkupCompile.lref
+C:\Users\student\Desktop\Ps25.05\Ps\obj\Debug\MainWindow.baml
+C:\Users\student\Desktop\Ps25.05\Ps\obj\Debug\Ps.g.resources
+C:\Users\student\Desktop\Ps25.05\Ps\obj\Debug\Ps.Properties.Resources.resources
+C:\Users\student\Desktop\Ps25.05\Ps\obj\Debug\Ps.csproj.GenerateResource.Cache
+C:\Users\student\Desktop\Ps25.05\Ps\obj\Debug\Ps.exe
+C:\Users\student\Desktop\Ps25.05\Ps\obj\Debug\Ps.pdb
+E:\Ps25.05\Ps\bin\Debug\Ps.exe.config
+E:\Ps25.05\Ps\obj\Debug\Ps.exe
+E:\Ps25.05\Ps\obj\Debug\Ps.pdb
+E:\Ps25.05\Ps\bin\Debug\Ps.exe
+E:\Ps25.05\Ps\bin\Debug\Ps.pdb
+E:\Ps25.05\Ps\obj\Debug\Ps.csprojResolveAssemblyReference.cache
+E:\Ps25.05\Ps\obj\Debug\MainWindow.g.cs
+E:\Ps25.05\Ps\obj\Debug\App.g.cs
+E:\Ps25.05\Ps\obj\Debug\Ps_MarkupCompile.cache
+E:\Ps25.05\Ps\obj\Debug\Ps_MarkupCompile.lref
+E:\Ps25.05\Ps\obj\Debug\MainWindow.baml
+E:\Ps25.05\Ps\obj\Debug\Ps.g.resources
+E:\Ps25.05\Ps\obj\Debug\Ps.Properties.Resources.resources
+E:\Ps25.05\Ps\obj\Debug\Ps.csproj.GenerateResource.Cache
+C:\Users\Vasile-Adrian TORJA\Desktop\Ps25.05\Ps\bin\Debug\Ps.exe.config
+C:\Users\Vasile-Adrian TORJA\Desktop\Ps25.05\Ps\obj\Debug\Ps.exe
+C:\Users\Vasile-Adrian TORJA\Desktop\Ps25.05\Ps\obj\Debug\Ps.pdb
+C:\Users\Vasile-Adrian TORJA\Desktop\Ps25.05\Ps\bin\Debug\Ps.exe
+C:\Users\Vasile-Adrian TORJA\Desktop\Ps25.05\Ps\bin\Debug\Ps.pdb
+C:\Users\Vasile-Adrian TORJA\Desktop\Ps25.05\Ps\obj\Debug\Ps.csprojResolveAssemblyReference.cache
+C:\Users\Vasile-Adrian TORJA\Desktop\Ps25.05\Ps\obj\Debug\MainWindow.g.cs
+C:\Users\Vasile-Adrian TORJA\Desktop\Ps25.05\Ps\obj\Debug\App.g.cs
+C:\Users\Vasile-Adrian TORJA\Desktop\Ps25.05\Ps\obj\Debug\Ps_MarkupCompile.cache
+C:\Users\Vasile-Adrian TORJA\Desktop\Ps25.05\Ps\obj\Debug\Ps_MarkupCompile.lref
+C:\Users\Vasile-Adrian TORJA\Desktop\Ps25.05\Ps\obj\Debug\MainWindow.baml
+C:\Users\Vasile-Adrian TORJA\Desktop\Ps25.05\Ps\obj\Debug\Ps.g.resources
+C:\Users\Vasile-Adrian TORJA\Desktop\Ps25.05\Ps\obj\Debug\Ps.Properties.Resources.resources
+C:\Users\Vasile-Adrian TORJA\Desktop\Ps25.05\Ps\obj\Debug\Ps.csproj.GenerateResource.Cache
