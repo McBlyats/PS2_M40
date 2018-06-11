@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsRoot Version="1005.200.111.1" ChangeCounter="9" xmlns="http://www.siemens.com/2004/04/Automation/CommonServices/SettingsServiceValueData" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.siemens.com/2004/04/Automation/CommonServices/SettingsServiceValueData Automation-CommonServices-DataSettings-v1.0.xsd">
+  <SettingNode Name="LoadService">
+    <SettingNode Name="{472-1806}">
+      <Setting Name="UseExtendedDownloadDialog">False</Setting>
+    </SettingNode>
+  </SettingNode>
+</SettingsRoot>
