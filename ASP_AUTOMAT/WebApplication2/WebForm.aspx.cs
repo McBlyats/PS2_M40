@@ -17,7 +17,7 @@ namespace WebApplication2
 
         protected void Button1_Click(object sender, EventArgs e)
         {
-            string nrBinar = System.IO.File.ReadAllText(@"C:\Users\Vasile-Adrian TORJA\Documents\PS2_M40\ASP_AUTOMAT\WebApplication2\data.txt");
+            string nrBinar = System.IO.File.ReadAllText(@"C:\Users\Vasile-Adrian TORJA\Desktop\ASP_AUTOMAT\WebApplication2\data.txt");
             Textbox1.Text = nrBinar;
             byte[] array = Encoding.ASCII.GetBytes(nrBinar);  //sa converteasca stringu in byte
         }
